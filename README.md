@@ -1,1 +1,12 @@
-# simarsays
+# Simar Says
+ - How to play
+    - LED light indicates if game is on
+    - Choose number of players (up to 4) via button
+    - Hold button to indicate when the number of players being selected has been completed
+    - Sound starts
+    - Long sound indicates when player should begin clapping
+    - Stalls to allow player time to clap
+    - Long sound indicates when player should stop clapping
+    - Program determines if clap pattern by player is close enough to generated pattern
+    - Point is added on 4 digit display if clap pattern is close enough
+    - The 4 digit display indicates whose turn it is next, their current score, and steps d-j restart
